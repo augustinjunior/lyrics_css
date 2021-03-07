@@ -1,0 +1,210 @@
+body {
+padding: auto;
+width: auto;
+height: auto;
+margin:20px;
+font-family: Helvetica, sans-serif;
+}
+
+.header-1 {
+color: black;
+font-family:Impact,'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+text-transform: uppercase;
+background-color: yellow;
+margin:auto;
+text-align: center;
+padding: 15px;
+}
+
+.header-2{
+background-color:rgb(49, 51, 51);
+width: 100%;
+text-align: center;
+display: inline-block;
+}
+
+.menu ul li {
+display: inline-block;
+color:rgb(245, 248, 248);
+text-align: center;
+justify-content: space-around;
+width: 10%;
+padding: 10px;
+}
+
+.menu ul li a {
+color:rgb(239, 245, 245);
+text-decoration: none;
+font-size: 18px;
+font-family: Arial, Helvetica, sans-serif;
+width: 100vw;
+text-align: center;
+margin: 15px;
+}
+
+
+.header-3{
+background-color:rgb(200, 211, 211);
+width: 100%;
+text-align: center;
+display: inline-block;
+color: yellow;
+height: fit-content;
+}
+
+
+header {
+background-image: url(talking_heads-speaking_in_tongues.png);
+background-size: cover;
+background-position: center;
+}
+
+.head {
+background-color: #0000009d;
+margin-left: 120px;
+margin-right: 120px;
+background-position: center;
+padding: 70px;
+text-align: left;
+color: white;
+}
+  
+.titleheader {
+font-size: 30px;
+color: yellow;
+text-transform: uppercase;
+}
+  
+.titleheader2 {
+text-transform: uppercase;
+}
+  
+
+figure {
+float: right;
+margin: -3% 0 10px 10px;
+}
+
+
+article {
+margin-left: 110px;
+margin-right: 110px;
+}
+
+.band {
+background-color: #333;
+float: right;
+max-width: 380px;
+max-height: 900px;
+justify-content: space-between;
+}
+
+.bandh2 {
+position: relative;
+background-color: yellow;
+font-family: Helvetica, sans-serif;
+text-align: left;
+margin: auto;
+padding: 14px 16px;
+text-transform: uppercase;
+}
+
+.bandp {
+margin-inline: 30px;
+color: aliceblue;
+}
+
+blockquote {
+color: aliceblue;
+margin-left: 80px;
+}
+
+.line {
+border-bottom: 5px solid #ffffff;
+margin-inline: 30px;
+display: block;
+}
+
+.youtube {
+padding: 20px 40px;
+align-items: center;
+}
+  
+.vertical-line {
+position: absolute;
+margin-top: 30px;
+border-left: 5px solid yellow;
+height: 220px;
+}
+
+
+.verse-title {
+position: relative;
+margin-top: 40px;
+font-weight: normal;
+background-color: yellow;
+max-width: 150px;
+max-height: 100px;
+text-align: center;
+padding: 14px 16px;
+text-transform: uppercase;
+}
+  
+.verse {
+margin: 20px;
+max-width: 500px;
+max-height: 200px;
+font-size: 18px;
+}
+  
+.vertical-line1 {
+position: absolute;
+margin-left: 40px;
+margin-top: 30px;
+border-left: 5px solid yellow;
+height: 190px;
+}
+  
+.chorus-title {
+position: relative;
+margin-top: 40px;
+margin-left: 40px;
+font-weight: normal;
+background-color: yellow;
+max-width: 150px;
+max-height: 100px;
+text-align: center;
+padding: 14px 16px;
+text-transform: uppercase;
+}
+
+.vertical-line2 {
+position: absolute;
+margin-left: 40px;
+margin-top: 30px;
+border-left: 5px solid yellow;
+height: 270px;
+}
+
+.chorus {
+position: relative;
+margin-left: 60px;
+max-width: 500px;
+max-height: 200px;
+font-size: 18px;
+}
+  
+.line-footer {
+border-bottom: 5px solid yellow;
+margin-top: 80px;
+display: block;
+}
+  
+.cite  {
+position: absolute;
+text-align: center;
+margin-left: 20px;
+margin-right: 20px;
+
+}
